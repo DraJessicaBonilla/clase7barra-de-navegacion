@@ -106,6 +106,10 @@ nav a:hover{
     color: #1BF7DE;
     }
 
+    .greeting{
+      text-align: center;
+    }
+
     @media (max-width: 768px) {
         .column {
           flex: 100%;
